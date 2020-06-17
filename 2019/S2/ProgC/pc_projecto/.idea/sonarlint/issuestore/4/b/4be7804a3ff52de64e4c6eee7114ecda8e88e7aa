@@ -1,0 +1,8 @@
+
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(è±êœúÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(žÒ€
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ÕÎ«Õ
+U
+java:S1161-":Add the "@Override" annotation above this method signature(š¡‚ºúÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(„”øÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(áÖ£ýÿÿÿÿ8Ù«Œ—ª.

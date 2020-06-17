@@ -1,0 +1,712 @@
+11 Jun 2020 17:10:49 GMT | Starting at http://localhost:8123
+11 Jun 2020 17:10:49 GMT | 0 | http://localhost:8123 | 200 | 988 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 0 | http://localhost:8123 | 988 bytes received
+11 Jun 2020 17:10:50 GMT | 1 | http://localhost:8123/ | 200 | 988 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 1 | http://localhost:8123/ | 988 bytes received
+11 Jun 2020 17:10:50 GMT | 2 | http://localhost:8123/allclasses-frame.html | 200 | 18160 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 2 | http://localhost:8123/allclasses-frame.html | 18160 bytes received
+11 Jun 2020 17:10:50 GMT | 3 | http://localhost:8123/org/cooperari/core/ACustomYieldPoint.html | 200 | 12562 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 3 | http://localhost:8123/org/cooperari/core/ACustomYieldPoint.html | 12562 bytes received
+11 Jun 2020 17:10:50 GMT | 4 | http://localhost:8123/overview-summary.html | 200 | 8160 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 4 | http://localhost:8123/overview-summary.html | 8160 bytes received
+11 Jun 2020 17:10:50 GMT | 5 | http://localhost:8123/overview-tree.html | 200 | 37016 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 5 | http://localhost:8123/overview-tree.html | 37016 bytes received
+11 Jun 2020 17:10:50 GMT | 6 | http://localhost:8123/deprecated-list.html | 200 | 3751 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 6 | http://localhost:8123/deprecated-list.html | 3751 bytes received
+11 Jun 2020 17:10:50 GMT | 7 | http://localhost:8123/index-all.html | 200 | 254595 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 7 | http://localhost:8123/index-all.html | 254595 bytes received
+11 Jun 2020 17:10:50 GMT | 8 | http://localhost:8123/help-doc.html | 200 | 9009 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 8 | http://localhost:8123/help-doc.html | 9009 bytes received
+11 Jun 2020 17:10:50 GMT | 9 | http://localhost:8123/index.html | 200 | 2971 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 9 | http://localhost:8123/index.html | 2971 bytes received
+11 Jun 2020 17:10:50 GMT | 10 | http://localhost:8123/allclasses-noframe.html | 200 | 15740 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 10 | http://localhost:8123/allclasses-noframe.html | 15740 bytes received
+11 Jun 2020 17:10:50 GMT | 11 | http://localhost:8123/org/cooperari/core/aspectj/AgentFacade.html | 200 | 22965 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 11 | http://localhost:8123/org/cooperari/core/aspectj/AgentFacade.html | 22965 bytes received
+11 Jun 2020 17:10:50 GMT | 12 | http://localhost:8123/org/cooperari/core/aspectj/package-summary.html | 200 | 7160 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 12 | http://localhost:8123/org/cooperari/core/aspectj/package-summary.html | 7160 bytes received
+11 Jun 2020 17:10:50 GMT | 13 | http://localhost:8123/org/cooperari/core/aspectj/package-use.html | 200 | 6026 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 13 | http://localhost:8123/org/cooperari/core/aspectj/package-use.html | 6026 bytes received
+11 Jun 2020 17:10:50 GMT | 14 | http://localhost:8123/org/cooperari/core/aspectj/package-tree.html | 200 | 6787 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 14 | http://localhost:8123/org/cooperari/core/aspectj/package-tree.html | 6787 bytes received
+11 Jun 2020 17:10:50 GMT | 15 | http://localhost:8123/org/cooperari/core/package-tree.html | 200 | 10527 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 15 | http://localhost:8123/org/cooperari/core/package-tree.html | 10527 bytes received
+11 Jun 2020 17:10:50 GMT | 16 | http://localhost:8123/org/cooperari/core/package-summary.html | 200 | 11315 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 16 | http://localhost:8123/org/cooperari/core/package-summary.html | 11315 bytes received
+11 Jun 2020 17:10:50 GMT | 17 | http://localhost:8123/org/cooperari/core/package-use.html | 200 | 20774 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 17 | http://localhost:8123/org/cooperari/core/package-use.html | 20774 bytes received
+11 Jun 2020 17:10:50 GMT | 18 | http://localhost:8123/org/cooperari/core/class-use/CBlockingOperationEvent.html | 200 | 7947 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 18 | http://localhost:8123/org/cooperari/core/class-use/CBlockingOperationEvent.html | 7947 bytes received
+11 Jun 2020 17:10:50 GMT | 19 | http://localhost:8123/org/cooperari/core/CBlockingOperationEvent.html | 200 | 18566 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 19 | http://localhost:8123/org/cooperari/core/CBlockingOperationEvent.html | 18566 bytes received
+11 Jun 2020 17:10:50 GMT | 20 | http://localhost:8123/org/cooperari/core/CConfiguration.html | 200 | 13605 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 20 | http://localhost:8123/org/cooperari/core/CConfiguration.html | 13605 bytes received
+11 Jun 2020 17:10:50 GMT | 21 | http://localhost:8123/org/cooperari/core/class-use/CConfiguration.html | 200 | 6432 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 21 | http://localhost:8123/org/cooperari/core/class-use/CConfiguration.html | 6432 bytes received
+11 Jun 2020 17:10:50 GMT | 22 | http://localhost:8123/org/cooperari/core/CRuntime.html | 200 | 32237 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 22 | http://localhost:8123/org/cooperari/core/CRuntime.html | 32237 bytes received
+11 Jun 2020 17:10:50 GMT | 23 | http://localhost:8123/org/cooperari/core/class-use/CRuntime.html | 200 | 16340 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 23 | http://localhost:8123/org/cooperari/core/class-use/CRuntime.html | 16340 bytes received
+11 Jun 2020 17:10:50 GMT | 24 | http://localhost:8123/org/cooperari/core/CEngine.html | 200 | 30059 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 24 | http://localhost:8123/org/cooperari/core/CEngine.html | 30059 bytes received
+11 Jun 2020 17:10:50 GMT | 25 | http://localhost:8123/org/cooperari/core/class-use/CEngine.html | 200 | 7523 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 25 | http://localhost:8123/org/cooperari/core/class-use/CEngine.html | 7523 bytes received
+11 Jun 2020 17:10:50 GMT | 26 | http://localhost:8123/org/cooperari/core/CThread.html | 200 | 48211 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 26 | http://localhost:8123/org/cooperari/core/CThread.html | 48211 bytes received
+11 Jun 2020 17:10:50 GMT | 27 | http://localhost:8123/org/cooperari/core/class-use/CThread.html | 200 | 46924 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 27 | http://localhost:8123/org/cooperari/core/class-use/CThread.html | 46924 bytes received
+11 Jun 2020 17:10:50 GMT | 28 | http://localhost:8123/org/cooperari/core/CUncaughtExceptionHandler.html | 200 | 17046 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 28 | http://localhost:8123/org/cooperari/core/CUncaughtExceptionHandler.html | 17046 bytes received
+11 Jun 2020 17:10:50 GMT | 29 | http://localhost:8123/org/cooperari/core/class-use/CUncaughtExceptionHandler.html | 200 | 7097 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 29 | http://localhost:8123/org/cooperari/core/class-use/CUncaughtExceptionHandler.html | 7097 bytes received
+11 Jun 2020 17:10:50 GMT | 30 | http://localhost:8123/org/cooperari/core/CTrace.EventType.html | 200 | 17895 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 30 | http://localhost:8123/org/cooperari/core/CTrace.EventType.html | 17895 bytes received
+11 Jun 2020 17:10:50 GMT | 31 | http://localhost:8123/org/cooperari/core/class-use/CTrace.EventType.html | 200 | 8506 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 31 | http://localhost:8123/org/cooperari/core/class-use/CTrace.EventType.html | 8506 bytes received
+11 Jun 2020 17:10:50 GMT | 32 | http://localhost:8123/org/cooperari/core/CTrace.html | 200 | 18459 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 32 | http://localhost:8123/org/cooperari/core/CTrace.html | 18459 bytes received
+11 Jun 2020 17:10:50 GMT | 33 | http://localhost:8123/org/cooperari/core/class-use/CTrace.html | 200 | 4418 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 33 | http://localhost:8123/org/cooperari/core/class-use/CTrace.html | 4418 bytes received
+11 Jun 2020 17:10:50 GMT | 34 | http://localhost:8123/org/cooperari/core/CThreadState.html | 200 | 21223 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 34 | http://localhost:8123/org/cooperari/core/CThreadState.html | 21223 bytes received
+11 Jun 2020 17:10:50 GMT | 35 | http://localhost:8123/org/cooperari/core/class-use/CThreadState.html | 200 | 13415 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 35 | http://localhost:8123/org/cooperari/core/class-use/CThreadState.html | 13415 bytes received
+11 Jun 2020 17:10:50 GMT | 36 | http://localhost:8123/org/cooperari/core/COperation.html | 200 | 25284 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 36 | http://localhost:8123/org/cooperari/core/COperation.html | 25284 bytes received
+11 Jun 2020 17:10:50 GMT | 37 | http://localhost:8123/org/cooperari/core/class-use/COperation.html | 200 | 24936 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 37 | http://localhost:8123/org/cooperari/core/class-use/COperation.html | 24936 bytes received
+11 Jun 2020 17:10:50 GMT | 38 | http://localhost:8123/org/cooperari/core/CustomYieldPointOperation.html | 200 | 11832 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 38 | http://localhost:8123/org/cooperari/core/CustomYieldPointOperation.html | 11832 bytes received
+11 Jun 2020 17:10:50 GMT | 39 | http://localhost:8123/org/cooperari/core/class-use/CustomYieldPointOperation.html | 200 | 4627 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 39 | http://localhost:8123/org/cooperari/core/class-use/CustomYieldPointOperation.html | 4627 bytes received
+11 Jun 2020 17:10:50 GMT | 40 | http://localhost:8123/org/cooperari/core/CustomYieldPoint.html | 200 | 14673 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 40 | http://localhost:8123/org/cooperari/core/CustomYieldPoint.html | 14673 bytes received
+11 Jun 2020 17:10:50 GMT | 41 | http://localhost:8123/org/cooperari/core/class-use/CustomYieldPoint.html | 200 | 10506 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 41 | http://localhost:8123/org/cooperari/core/class-use/CustomYieldPoint.html | 10506 bytes received
+11 Jun 2020 17:10:50 GMT | 42 | http://localhost:8123/org/cooperari/feature/package-summary.html | 200 | 6160 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 42 | http://localhost:8123/org/cooperari/feature/package-summary.html | 6160 bytes received
+11 Jun 2020 17:10:50 GMT | 43 | http://localhost:8123/org/cooperari/feature/package-use.html | 200 | 13017 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 43 | http://localhost:8123/org/cooperari/feature/package-use.html | 13017 bytes received
+11 Jun 2020 17:10:50 GMT | 44 | http://localhost:8123/org/cooperari/feature/package-tree.html | 200 | 5190 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 44 | http://localhost:8123/org/cooperari/feature/package-tree.html | 5190 bytes received
+11 Jun 2020 17:10:50 GMT | 45 | http://localhost:8123/org/cooperari/errors/package-tree.html | 200 | 7361 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 45 | http://localhost:8123/org/cooperari/errors/package-tree.html | 7361 bytes received
+11 Jun 2020 17:10:50 GMT | 46 | http://localhost:8123/org/cooperari/errors/package-summary.html | 200 | 8243 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 46 | http://localhost:8123/org/cooperari/errors/package-summary.html | 8243 bytes received
+11 Jun 2020 17:10:50 GMT | 47 | http://localhost:8123/org/cooperari/errors/package-use.html | 200 | 9305 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 47 | http://localhost:8123/org/cooperari/errors/package-use.html | 9305 bytes received
+11 Jun 2020 17:10:50 GMT | 48 | http://localhost:8123/org/cooperari/package-summary.html | 200 | 6801 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 48 | http://localhost:8123/org/cooperari/package-summary.html | 6801 bytes received
+11 Jun 2020 17:10:50 GMT | 49 | http://localhost:8123/org/cooperari/package-use.html | 200 | 9101 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 49 | http://localhost:8123/org/cooperari/package-use.html | 9101 bytes received
+11 Jun 2020 17:10:50 GMT | 50 | http://localhost:8123/org/cooperari/package-tree.html | 200 | 5773 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 50 | http://localhost:8123/org/cooperari/package-tree.html | 5773 bytes received
+11 Jun 2020 17:10:50 GMT | 51 | http://localhost:8123/org/cooperari/config/package-tree.html | 200 | 9409 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 51 | http://localhost:8123/org/cooperari/config/package-tree.html | 9409 bytes received
+11 Jun 2020 17:10:50 GMT | 52 | http://localhost:8123/org/cooperari/config/package-summary.html | 200 | 8960 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 52 | http://localhost:8123/org/cooperari/config/package-summary.html | 8960 bytes received
+11 Jun 2020 17:10:50 GMT | 53 | http://localhost:8123/org/cooperari/config/package-use.html | 200 | 12120 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 53 | http://localhost:8123/org/cooperari/config/package-use.html | 12120 bytes received
+11 Jun 2020 17:10:50 GMT | 54 | http://localhost:8123/org/cooperari/config/class-use/CAlways.html | 200 | 6418 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 54 | http://localhost:8123/org/cooperari/config/class-use/CAlways.html | 6418 bytes received
+11 Jun 2020 17:10:50 GMT | 55 | http://localhost:8123/org/cooperari/config/CAlways.html | 200 | 8919 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 55 | http://localhost:8123/org/cooperari/config/CAlways.html | 8919 bytes received
+11 Jun 2020 17:10:50 GMT | 56 | http://localhost:8123/org/cooperari/config/CBaseConfiguration.html | 200 | 8711 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 56 | http://localhost:8123/org/cooperari/config/CBaseConfiguration.html | 8711 bytes received
+11 Jun 2020 17:10:50 GMT | 57 | http://localhost:8123/org/cooperari/config/class-use/CBaseConfiguration.html | 200 | 4572 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 57 | http://localhost:8123/org/cooperari/config/class-use/CBaseConfiguration.html | 4572 bytes received
+11 Jun 2020 17:10:50 GMT | 58 | http://localhost:8123/org/cooperari/config/CDetectResourceDeadlocks.html | 200 | 6996 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 58 | http://localhost:8123/org/cooperari/config/CDetectResourceDeadlocks.html | 6996 bytes received
+11 Jun 2020 17:10:50 GMT | 59 | http://localhost:8123/org/cooperari/config/class-use/CDetectResourceDeadlocks.html | 200 | 8381 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 59 | http://localhost:8123/org/cooperari/config/class-use/CDetectResourceDeadlocks.html | 8381 bytes received
+11 Jun 2020 17:10:50 GMT | 60 | http://localhost:8123/org/cooperari/feature/monitor/package-summary.html | 200 | 9817 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 60 | http://localhost:8123/org/cooperari/feature/monitor/package-summary.html | 9817 bytes received
+11 Jun 2020 17:10:50 GMT | 61 | http://localhost:8123/org/cooperari/feature/monitor/package-use.html | 200 | 6078 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 61 | http://localhost:8123/org/cooperari/feature/monitor/package-use.html | 6078 bytes received
+11 Jun 2020 17:10:50 GMT | 62 | http://localhost:8123/org/cooperari/feature/monitor/package-tree.html | 200 | 9091 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 62 | http://localhost:8123/org/cooperari/feature/monitor/package-tree.html | 9091 bytes received
+11 Jun 2020 17:10:50 GMT | 63 | http://localhost:8123/org/cooperari/feature/hotspots/package-tree.html | 200 | 6120 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 63 | http://localhost:8123/org/cooperari/feature/hotspots/package-tree.html | 6120 bytes received
+11 Jun 2020 17:10:50 GMT | 64 | http://localhost:8123/org/cooperari/feature/hotspots/package-summary.html | 200 | 6830 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 64 | http://localhost:8123/org/cooperari/feature/hotspots/package-summary.html | 6830 bytes received
+11 Jun 2020 17:10:50 GMT | 65 | http://localhost:8123/org/cooperari/feature/hotspots/package-use.html | 200 | 4276 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 65 | http://localhost:8123/org/cooperari/feature/hotspots/package-use.html | 4276 bytes received
+11 Jun 2020 17:10:50 GMT | 66 | http://localhost:8123/org/cooperari/feature/data/package-summary.html | 200 | 6981 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 66 | http://localhost:8123/org/cooperari/feature/data/package-summary.html | 6981 bytes received
+11 Jun 2020 17:10:50 GMT | 67 | http://localhost:8123/org/cooperari/feature/data/package-use.html | 200 | 5777 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 67 | http://localhost:8123/org/cooperari/feature/data/package-use.html | 5777 bytes received
+11 Jun 2020 17:10:50 GMT | 68 | http://localhost:8123/org/cooperari/feature/data/package-tree.html | 200 | 6460 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 68 | http://localhost:8123/org/cooperari/feature/data/package-tree.html | 6460 bytes received
+11 Jun 2020 17:10:50 GMT | 69 | http://localhost:8123/org/cooperari/feature/atomic/package-tree.html | 200 | 5213 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 69 | http://localhost:8123/org/cooperari/feature/atomic/package-tree.html | 5213 bytes received
+11 Jun 2020 17:10:50 GMT | 70 | http://localhost:8123/org/cooperari/feature/atomic/package-summary.html | 200 | 5824 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 70 | http://localhost:8123/org/cooperari/feature/atomic/package-summary.html | 5824 bytes received
+11 Jun 2020 17:10:50 GMT | 71 | http://localhost:8123/org/cooperari/feature/atomic/package-use.html | 200 | 4262 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 71 | http://localhost:8123/org/cooperari/feature/atomic/package-use.html | 4262 bytes received
+11 Jun 2020 17:10:50 GMT | 72 | http://localhost:8123/org/cooperari/feature/atomic/CAtomicObjectsFeature.html | 200 | 13997 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 72 | http://localhost:8123/org/cooperari/feature/atomic/CAtomicObjectsFeature.html | 13997 bytes received
+11 Jun 2020 17:10:50 GMT | 73 | http://localhost:8123/org/cooperari/feature/atomic/class-use/CAtomicObjectsFeature.html | 200 | 4741 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 73 | http://localhost:8123/org/cooperari/feature/atomic/class-use/CAtomicObjectsFeature.html | 4741 bytes received
+11 Jun 2020 17:10:50 GMT | 74 | http://localhost:8123/org/cooperari/feature/CFeature.html | 200 | 14528 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 74 | http://localhost:8123/org/cooperari/feature/CFeature.html | 14528 bytes received
+11 Jun 2020 17:10:50 GMT | 75 | http://localhost:8123/org/cooperari/feature/class-use/CFeature.html | 200 | 17821 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 75 | http://localhost:8123/org/cooperari/feature/class-use/CFeature.html | 17821 bytes received
+11 Jun 2020 17:10:50 GMT | 76 | http://localhost:8123/org/cooperari/feature/CAllFeatures.html | 200 | 10638 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 76 | http://localhost:8123/org/cooperari/feature/CAllFeatures.html | 10638 bytes received
+11 Jun 2020 17:10:50 GMT | 77 | http://localhost:8123/org/cooperari/feature/class-use/CAllFeatures.html | 200 | 4517 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 77 | http://localhost:8123/org/cooperari/feature/class-use/CAllFeatures.html | 4517 bytes received
+11 Jun 2020 17:10:50 GMT | 78 | http://localhost:8123/org/cooperari/feature/data/CDataAccessFeature.html | 200 | 17199 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 78 | http://localhost:8123/org/cooperari/feature/data/CDataAccessFeature.html | 17199 bytes received
+11 Jun 2020 17:10:50 GMT | 79 | http://localhost:8123/org/cooperari/feature/data/class-use/CDataAccessFeature.html | 200 | 4686 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 79 | http://localhost:8123/org/cooperari/feature/data/class-use/CDataAccessFeature.html | 4686 bytes received
+11 Jun 2020 17:10:50 GMT | 80 | http://localhost:8123/org/cooperari/feature/data/DataOperation.html | 200 | 13139 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 80 | http://localhost:8123/org/cooperari/feature/data/DataOperation.html | 13139 bytes received
+11 Jun 2020 17:10:50 GMT | 81 | http://localhost:8123/org/cooperari/feature/data/class-use/DataOperation.html | 200 | 6979 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 81 | http://localhost:8123/org/cooperari/feature/data/class-use/DataOperation.html | 6979 bytes received
+11 Jun 2020 17:10:50 GMT | 82 | http://localhost:8123/org/cooperari/feature/data/Read.html | 200 | 15049 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 82 | http://localhost:8123/org/cooperari/feature/data/Read.html | 15049 bytes received
+11 Jun 2020 17:10:50 GMT | 83 | http://localhost:8123/org/cooperari/feature/data/class-use/Read.html | 200 | 4532 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 83 | http://localhost:8123/org/cooperari/feature/data/class-use/Read.html | 4532 bytes received
+11 Jun 2020 17:10:50 GMT | 84 | http://localhost:8123/org/cooperari/feature/data/RaceDetector.html | 200 | 17001 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 84 | http://localhost:8123/org/cooperari/feature/data/RaceDetector.html | 17001 bytes received
+11 Jun 2020 17:10:50 GMT | 85 | http://localhost:8123/org/cooperari/feature/data/class-use/RaceDetector.html | 200 | 4620 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 85 | http://localhost:8123/org/cooperari/feature/data/class-use/RaceDetector.html | 4620 bytes received
+11 Jun 2020 17:10:50 GMT | 86 | http://localhost:8123/org/cooperari/config/CRaceDetection.html | 200 | 9509 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 86 | http://localhost:8123/org/cooperari/config/CRaceDetection.html | 9509 bytes received
+11 Jun 2020 17:10:50 GMT | 87 | http://localhost:8123/org/cooperari/config/class-use/CRaceDetection.html | 200 | 8068 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 87 | http://localhost:8123/org/cooperari/config/class-use/CRaceDetection.html | 8068 bytes received
+11 Jun 2020 17:10:50 GMT | 88 | http://localhost:8123/org/cooperari/config/CNever.html | 200 | 9184 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 88 | http://localhost:8123/org/cooperari/config/CNever.html | 9184 bytes received
+11 Jun 2020 17:10:50 GMT | 89 | http://localhost:8123/org/cooperari/config/class-use/CNever.html | 200 | 6402 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 89 | http://localhost:8123/org/cooperari/config/class-use/CNever.html | 6402 bytes received
+11 Jun 2020 17:10:50 GMT | 90 | http://localhost:8123/org/cooperari/config/CMaxTrials.html | 200 | 8662 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 90 | http://localhost:8123/org/cooperari/config/CMaxTrials.html | 8662 bytes received
+11 Jun 2020 17:10:50 GMT | 91 | http://localhost:8123/org/cooperari/config/class-use/CMaxTrials.html | 200 | 6466 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 91 | http://localhost:8123/org/cooperari/config/class-use/CMaxTrials.html | 6466 bytes received
+11 Jun 2020 17:10:50 GMT | 92 | http://localhost:8123/org/cooperari/config/CInstrument.html | 200 | 13482 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 92 | http://localhost:8123/org/cooperari/config/CInstrument.html | 13482 bytes received
+11 Jun 2020 17:10:50 GMT | 93 | http://localhost:8123/org/cooperari/config/class-use/CInstrument.html | 200 | 8678 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 93 | http://localhost:8123/org/cooperari/config/class-use/CInstrument.html | 8678 bytes received
+11 Jun 2020 17:10:50 GMT | 94 | http://localhost:8123/org/cooperari/core/aspectj/WeavingConfiguration.html | 200 | 34585 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 94 | http://localhost:8123/org/cooperari/core/aspectj/WeavingConfiguration.html | 34585 bytes received
+11 Jun 2020 17:10:50 GMT | 95 | http://localhost:8123/org/cooperari/core/aspectj/class-use/WeavingConfiguration.html | 200 | 7515 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 95 | http://localhost:8123/org/cooperari/core/aspectj/class-use/WeavingConfiguration.html | 7515 bytes received
+11 Jun 2020 17:10:50 GMT | 96 | http://localhost:8123/org/cooperari/core/aspectj/CAgent.html | 200 | 13975 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 96 | http://localhost:8123/org/cooperari/core/aspectj/CAgent.html | 13975 bytes received
+11 Jun 2020 17:10:50 GMT | 97 | http://localhost:8123/org/cooperari/core/aspectj/class-use/CAgent.html | 200 | 4554 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 97 | http://localhost:8123/org/cooperari/core/aspectj/class-use/CAgent.html | 4554 bytes received
+11 Jun 2020 17:10:50 GMT | 98 | http://localhost:8123/org/cooperari/core/aspectj/AspectCompiler.html | 200 | 13846 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 98 | http://localhost:8123/org/cooperari/core/aspectj/AspectCompiler.html | 13846 bytes received
+11 Jun 2020 17:10:50 GMT | 99 | http://localhost:8123/org/cooperari/core/aspectj/class-use/AspectCompiler.html | 200 | 4642 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 99 | http://localhost:8123/org/cooperari/core/aspectj/class-use/AspectCompiler.html | 4642 bytes received
+11 Jun 2020 17:10:50 GMT | 100 | http://localhost:8123/org/cooperari/core/aspectj/AgentMessageHandler.html | 200 | 17281 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 100 | http://localhost:8123/org/cooperari/core/aspectj/AgentMessageHandler.html | 17281 bytes received
+11 Jun 2020 17:10:50 GMT | 101 | http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentMessageHandler.html | 200 | 4697 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 101 | http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentMessageHandler.html | 4697 bytes received
+11 Jun 2020 17:10:50 GMT | 102 | http://localhost:8123/org/cooperari/core/util/AgentLoader.html | 200 | 11497 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 102 | http://localhost:8123/org/cooperari/core/util/AgentLoader.html | 11497 bytes received
+11 Jun 2020 17:10:50 GMT | 103 | http://localhost:8123/org/cooperari/core/util/package-summary.html | 200 | 7682 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 103 | http://localhost:8123/org/cooperari/core/util/package-summary.html | 7682 bytes received
+11 Jun 2020 17:10:50 GMT | 104 | http://localhost:8123/org/cooperari/core/util/package-use.html | 200 | 7167 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 104 | http://localhost:8123/org/cooperari/core/util/package-use.html | 7167 bytes received
+11 Jun 2020 17:10:50 GMT | 105 | http://localhost:8123/org/cooperari/core/util/package-tree.html | 200 | 7239 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 105 | http://localhost:8123/org/cooperari/core/util/package-tree.html | 7239 bytes received
+11 Jun 2020 17:10:50 GMT | 106 | http://localhost:8123/org/cooperari/core/scheduling/package-tree.html | 200 | 9269 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 106 | http://localhost:8123/org/cooperari/core/scheduling/package-tree.html | 9269 bytes received
+11 Jun 2020 17:10:50 GMT | 107 | http://localhost:8123/org/cooperari/core/scheduling/package-summary.html | 200 | 9694 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 107 | http://localhost:8123/org/cooperari/core/scheduling/package-summary.html | 9694 bytes received
+11 Jun 2020 17:10:50 GMT | 108 | http://localhost:8123/org/cooperari/core/scheduling/package-use.html | 200 | 9364 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 108 | http://localhost:8123/org/cooperari/core/scheduling/package-use.html | 9364 bytes received
+11 Jun 2020 17:10:50 GMT | 109 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.CElement.html | 200 | 12942 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 109 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.CElement.html | 12942 bytes received
+11 Jun 2020 17:10:50 GMT | 110 | http://localhost:8123/org/cooperari/core/scheduling/CProgramState.CElement.html | 200 | 9937 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 110 | http://localhost:8123/org/cooperari/core/scheduling/CProgramState.CElement.html | 9937 bytes received
+11 Jun 2020 17:10:50 GMT | 111 | http://localhost:8123/org/cooperari/core/scheduling/CProgramState.html | 200 | 18924 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 111 | http://localhost:8123/org/cooperari/core/scheduling/CProgramState.html | 18924 bytes received
+11 Jun 2020 17:10:50 GMT | 112 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.html | 200 | 11887 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 112 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.html | 11887 bytes received
+11 Jun 2020 17:10:50 GMT | 113 | http://localhost:8123/org/cooperari/core/scheduling/CGroupProgramState.html | 200 | 25326 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 113 | http://localhost:8123/org/cooperari/core/scheduling/CGroupProgramState.html | 25326 bytes received
+11 Jun 2020 17:10:50 GMT | 114 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CGroupProgramState.html | 200 | 4719 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 114 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CGroupProgramState.html | 4719 bytes received
+11 Jun 2020 17:10:50 GMT | 115 | http://localhost:8123/org/cooperari/core/scheduling/CProgramStateFactory.html | 200 | 20588 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 115 | http://localhost:8123/org/cooperari/core/scheduling/CProgramStateFactory.html | 20588 bytes received
+11 Jun 2020 17:10:50 GMT | 116 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramStateFactory.html | 200 | 7804 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 116 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramStateFactory.html | 7804 bytes received
+11 Jun 2020 17:10:50 GMT | 117 | http://localhost:8123/org/cooperari/core/scheduling/CRawProgramState.html | 200 | 25570 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 117 | http://localhost:8123/org/cooperari/core/scheduling/CRawProgramState.html | 25570 bytes received
+11 Jun 2020 17:10:50 GMT | 118 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CRawProgramState.html | 200 | 4697 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 118 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CRawProgramState.html | 4697 bytes received
+11 Jun 2020 17:10:50 GMT | 119 | http://localhost:8123/org/cooperari/core/scheduling/CScheduler.html | 200 | 16778 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 119 | http://localhost:8123/org/cooperari/core/scheduling/CScheduler.html | 16778 bytes received
+11 Jun 2020 17:10:50 GMT | 120 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CScheduler.html | 200 | 9984 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 120 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CScheduler.html | 9984 bytes received
+11 Jun 2020 17:10:50 GMT | 121 | http://localhost:8123/org/cooperari/core/scheduling/Memini.html | 200 | 18876 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 121 | http://localhost:8123/org/cooperari/core/scheduling/Memini.html | 18876 bytes received
+11 Jun 2020 17:10:50 GMT | 122 | http://localhost:8123/org/cooperari/core/scheduling/class-use/Memini.html | 200 | 4587 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 122 | http://localhost:8123/org/cooperari/core/scheduling/class-use/Memini.html | 4587 bytes received
+11 Jun 2020 17:10:50 GMT | 123 | http://localhost:8123/org/cooperari/core/scheduling/CYieldPoint.html | 200 | 18917 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 123 | http://localhost:8123/org/cooperari/core/scheduling/CYieldPoint.html | 18917 bytes received
+11 Jun 2020 17:10:50 GMT | 124 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CYieldPoint.html | 200 | 14259 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 124 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CYieldPoint.html | 14259 bytes received
+11 Jun 2020 17:10:50 GMT | 125 | http://localhost:8123/org/cooperari/core/CYieldPointImpl.html | 200 | 27742 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 125 | http://localhost:8123/org/cooperari/core/CYieldPointImpl.html | 27742 bytes received
+11 Jun 2020 17:10:50 GMT | 126 | http://localhost:8123/org/cooperari/core/class-use/CYieldPointImpl.html | 200 | 4517 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 126 | http://localhost:8123/org/cooperari/core/class-use/CYieldPointImpl.html | 4517 bytes received
+11 Jun 2020 17:10:50 GMT | 127 | http://localhost:8123/org/cooperari/core/CWorkspace.Option.html | 200 | 16739 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 127 | http://localhost:8123/org/cooperari/core/CWorkspace.Option.html | 16739 bytes received
+11 Jun 2020 17:10:50 GMT | 128 | http://localhost:8123/org/cooperari/core/class-use/CWorkspace.Option.html | 200 | 9335 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 128 | http://localhost:8123/org/cooperari/core/class-use/CWorkspace.Option.html | 9335 bytes received
+11 Jun 2020 17:10:50 GMT | 129 | http://localhost:8123/org/cooperari/core/CWorkspace.html | 200 | 39938 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 129 | http://localhost:8123/org/cooperari/core/CWorkspace.html | 39938 bytes received
+11 Jun 2020 17:10:50 GMT | 130 | http://localhost:8123/org/cooperari/core/class-use/CWorkspace.html | 200 | 7150 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 130 | http://localhost:8123/org/cooperari/core/class-use/CWorkspace.html | 7150 bytes received
+11 Jun 2020 17:10:50 GMT | 131 | http://localhost:8123/org/cooperari/core/util/CLog.html | 200 | 25663 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 131 | http://localhost:8123/org/cooperari/core/util/CLog.html | 25663 bytes received
+11 Jun 2020 17:10:50 GMT | 132 | http://localhost:8123/org/cooperari/core/util/class-use/CLog.html | 200 | 13356 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 132 | http://localhost:8123/org/cooperari/core/util/class-use/CLog.html | 13356 bytes received
+11 Jun 2020 17:10:50 GMT | 133 | http://localhost:8123/org/cooperari/core/util/CLog.Option.html | 200 | 18338 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 133 | http://localhost:8123/org/cooperari/core/util/CLog.Option.html | 18338 bytes received
+11 Jun 2020 17:10:50 GMT | 134 | http://localhost:8123/org/cooperari/core/util/class-use/CLog.Option.html | 200 | 12824 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 134 | http://localhost:8123/org/cooperari/core/util/class-use/CLog.Option.html | 12824 bytes received
+11 Jun 2020 17:10:50 GMT | 135 | http://localhost:8123/org/cooperari/core/util/CRawTuple.html | 200 | 16123 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 135 | http://localhost:8123/org/cooperari/core/util/CRawTuple.html | 16123 bytes received
+11 Jun 2020 17:10:50 GMT | 136 | http://localhost:8123/org/cooperari/core/util/class-use/CRawTuple.html | 200 | 4554 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 136 | http://localhost:8123/org/cooperari/core/util/class-use/CRawTuple.html | 4554 bytes received
+11 Jun 2020 17:10:50 GMT | 137 | http://localhost:8123/org/cooperari/core/util/CReport.html | 200 | 17435 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 137 | http://localhost:8123/org/cooperari/core/util/CReport.html | 17435 bytes received
+11 Jun 2020 17:10:50 GMT | 138 | http://localhost:8123/org/cooperari/core/util/class-use/CReport.html | 200 | 8301 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 138 | http://localhost:8123/org/cooperari/core/util/class-use/CReport.html | 8301 bytes received
+11 Jun 2020 17:10:50 GMT | 139 | http://localhost:8123/org/cooperari/core/util/IO.html | 200 | 18134 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 139 | http://localhost:8123/org/cooperari/core/util/IO.html | 18134 bytes received
+11 Jun 2020 17:10:50 GMT | 140 | http://localhost:8123/org/cooperari/core/util/class-use/IO.html | 200 | 4477 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 140 | http://localhost:8123/org/cooperari/core/util/class-use/IO.html | 4477 bytes received
+11 Jun 2020 17:10:50 GMT | 141 | http://localhost:8123/org/cooperari/core/util/ResourceGraph.html | 200 | 20764 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 141 | http://localhost:8123/org/cooperari/core/util/ResourceGraph.html | 20764 bytes received
+11 Jun 2020 17:10:50 GMT | 142 | http://localhost:8123/org/cooperari/core/util/class-use/ResourceGraph.html | 200 | 4598 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 142 | http://localhost:8123/org/cooperari/core/util/class-use/ResourceGraph.html | 4598 bytes received
+11 Jun 2020 17:10:50 GMT | 143 | http://localhost:8123/org/cooperari/core/util/UnsafeVMOperations.html | 200 | 9938 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 143 | http://localhost:8123/org/cooperari/core/util/UnsafeVMOperations.html | 9938 bytes received
+11 Jun 2020 17:10:50 GMT | 144 | http://localhost:8123/org/cooperari/core/util/class-use/UnsafeVMOperations.html | 200 | 4653 bytes | text/html
+11 Jun 2020 17:10:50 GMT | 144 | http://localhost:8123/org/cooperari/core/util/class-use/UnsafeVMOperations.html | 4653 bytes received
+11 Jun 2020 17:10:50 GMT | 145 | http://localhost:8123/constant-values.html | 200 | 12024 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 145 | http://localhost:8123/constant-values.html | 12024 bytes received
+11 Jun 2020 17:10:51 GMT | 146 | http://localhost:8123/org/cooperari/CVersion.html | 200 | 14038 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 146 | http://localhost:8123/org/cooperari/CVersion.html | 14038 bytes received
+11 Jun 2020 17:10:51 GMT | 147 | http://localhost:8123/org/cooperari/class-use/CVersion.html | 200 | 4337 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 147 | http://localhost:8123/org/cooperari/class-use/CVersion.html | 4337 bytes received
+11 Jun 2020 17:10:51 GMT | 148 | http://localhost:8123/org/cooperari/CTestResult.html | 200 | 12089 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 148 | http://localhost:8123/org/cooperari/CTestResult.html | 12089 bytes received
+11 Jun 2020 17:10:51 GMT | 149 | http://localhost:8123/org/cooperari/class-use/CTestResult.html | 200 | 10727 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 149 | http://localhost:8123/org/cooperari/class-use/CTestResult.html | 10727 bytes received
+11 Jun 2020 17:10:51 GMT | 150 | http://localhost:8123/org/cooperari/CSystem.html | 200 | 22128 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 150 | http://localhost:8123/org/cooperari/CSystem.html | 22128 bytes received
+11 Jun 2020 17:10:51 GMT | 151 | http://localhost:8123/org/cooperari/class-use/CSystem.html | 200 | 4326 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 151 | http://localhost:8123/org/cooperari/class-use/CSystem.html | 4326 bytes received
+11 Jun 2020 17:10:51 GMT | 152 | http://localhost:8123/org/cooperari/CCoverage.html | 200 | 10049 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 152 | http://localhost:8123/org/cooperari/CCoverage.html | 10049 bytes received
+11 Jun 2020 17:10:51 GMT | 153 | http://localhost:8123/org/cooperari/class-use/CCoverage.html | 200 | 10075 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 153 | http://localhost:8123/org/cooperari/class-use/CCoverage.html | 10075 bytes received
+11 Jun 2020 17:10:51 GMT | 154 | http://localhost:8123/org/cooperari/core/CCoverageLog.html | 200 | 20053 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 154 | http://localhost:8123/org/cooperari/core/CCoverageLog.html | 20053 bytes received
+11 Jun 2020 17:10:51 GMT | 155 | http://localhost:8123/org/cooperari/core/class-use/CCoverageLog.html | 200 | 9371 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 155 | http://localhost:8123/org/cooperari/core/class-use/CCoverageLog.html | 9371 bytes received
+11 Jun 2020 17:10:51 GMT | 156 | http://localhost:8123/org/cooperari/config/CTraceOptions.html | 200 | 9179 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 156 | http://localhost:8123/org/cooperari/config/CTraceOptions.html | 9179 bytes received
+11 Jun 2020 17:10:51 GMT | 157 | http://localhost:8123/org/cooperari/config/class-use/CTraceOptions.html | 200 | 8097 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 157 | http://localhost:8123/org/cooperari/config/class-use/CTraceOptions.html | 8097 bytes received
+11 Jun 2020 17:10:51 GMT | 158 | http://localhost:8123/org/cooperari/config/CTimeLimit.html | 200 | 9159 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 158 | http://localhost:8123/org/cooperari/config/CTimeLimit.html | 9159 bytes received
+11 Jun 2020 17:10:51 GMT | 159 | http://localhost:8123/org/cooperari/config/class-use/CTimeLimit.html | 200 | 6466 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 159 | http://localhost:8123/org/cooperari/config/class-use/CTimeLimit.html | 6466 bytes received
+11 Jun 2020 17:10:51 GMT | 160 | http://localhost:8123/org/cooperari/config/CSometimes.html | 200 | 9223 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 160 | http://localhost:8123/org/cooperari/config/CSometimes.html | 9223 bytes received
+11 Jun 2020 17:10:51 GMT | 161 | http://localhost:8123/org/cooperari/config/class-use/CSometimes.html | 200 | 6466 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 161 | http://localhost:8123/org/cooperari/config/class-use/CSometimes.html | 6466 bytes received
+11 Jun 2020 17:10:51 GMT | 162 | http://localhost:8123/org/cooperari/config/CScheduling.html | 200 | 9948 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 162 | http://localhost:8123/org/cooperari/config/CScheduling.html | 9948 bytes received
+11 Jun 2020 17:10:51 GMT | 163 | http://localhost:8123/org/cooperari/config/class-use/CScheduling.html | 200 | 6482 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 163 | http://localhost:8123/org/cooperari/config/class-use/CScheduling.html | 6482 bytes received
+11 Jun 2020 17:10:51 GMT | 164 | http://localhost:8123/org/cooperari/core/scheduling/CSchedulerFactory.html | 200 | 19090 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 164 | http://localhost:8123/org/cooperari/core/scheduling/CSchedulerFactory.html | 19090 bytes received
+11 Jun 2020 17:10:51 GMT | 165 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CSchedulerFactory.html | 200 | 7732 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 165 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CSchedulerFactory.html | 7732 bytes received
+11 Jun 2020 17:10:51 GMT | 166 | http://localhost:8123/org/cooperari/core/scheduling/CThreadHandle.html | 200 | 7344 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 166 | http://localhost:8123/org/cooperari/core/scheduling/CThreadHandle.html | 7344 bytes received
+11 Jun 2020 17:10:51 GMT | 167 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadHandle.html | 200 | 21286 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 167 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadHandle.html | 21286 bytes received
+11 Jun 2020 17:10:51 GMT | 168 | http://localhost:8123/org/cooperari/core/scheduling/Oblitus.html | 200 | 14143 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 168 | http://localhost:8123/org/cooperari/core/scheduling/Oblitus.html | 14143 bytes received
+11 Jun 2020 17:10:51 GMT | 169 | http://localhost:8123/org/cooperari/core/scheduling/class-use/Oblitus.html | 200 | 4598 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 169 | http://localhost:8123/org/cooperari/core/scheduling/class-use/Oblitus.html | 4598 bytes received
+11 Jun 2020 17:10:51 GMT | 170 | http://localhost:8123/org/cooperari/core/scheduling/CThreadLocation.html | 200 | 21185 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 170 | http://localhost:8123/org/cooperari/core/scheduling/CThreadLocation.html | 21185 bytes received
+11 Jun 2020 17:10:51 GMT | 171 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadLocation.html | 200 | 9702 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 171 | http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadLocation.html | 9702 bytes received
+11 Jun 2020 17:10:51 GMT | 172 | http://localhost:8123/org/cooperari/CArray.html | 200 | 36334 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 172 | http://localhost:8123/org/cooperari/CArray.html | 36334 bytes received
+11 Jun 2020 17:10:51 GMT | 173 | http://localhost:8123/org/cooperari/class-use/CArray.html | 200 | 4315 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 173 | http://localhost:8123/org/cooperari/class-use/CArray.html | 4315 bytes received
+11 Jun 2020 17:10:51 GMT | 174 | http://localhost:8123/org/cooperari/CTest.html | 200 | 13889 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 174 | http://localhost:8123/org/cooperari/CTest.html | 13889 bytes received
+11 Jun 2020 17:10:51 GMT | 175 | http://localhost:8123/org/cooperari/class-use/CTest.html | 200 | 8879 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 175 | http://localhost:8123/org/cooperari/class-use/CTest.html | 8879 bytes received
+11 Jun 2020 17:10:51 GMT | 176 | http://localhost:8123/org/cooperari/core/CSession.html | 200 | 15537 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 176 | http://localhost:8123/org/cooperari/core/CSession.html | 15537 bytes received
+11 Jun 2020 17:10:51 GMT | 177 | http://localhost:8123/org/cooperari/core/class-use/CSession.html | 200 | 4440 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 177 | http://localhost:8123/org/cooperari/core/class-use/CSession.html | 4440 bytes received
+11 Jun 2020 17:10:51 GMT | 178 | http://localhost:8123/org/cooperari/core/CSession.ExecutionHandler.html | 200 | 9793 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 178 | http://localhost:8123/org/cooperari/core/CSession.ExecutionHandler.html | 9793 bytes received
+11 Jun 2020 17:10:51 GMT | 179 | http://localhost:8123/org/cooperari/core/class-use/CSession.ExecutionHandler.html | 200 | 4651 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 179 | http://localhost:8123/org/cooperari/core/class-use/CSession.ExecutionHandler.html | 4651 bytes received
+11 Jun 2020 17:10:51 GMT | 180 | http://localhost:8123/org/cooperari/junit/CJUnitRunner.html | 200 | 15303 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 180 | http://localhost:8123/org/cooperari/junit/CJUnitRunner.html | 15303 bytes received
+11 Jun 2020 17:10:51 GMT | 181 | http://localhost:8123/org/cooperari/junit/package-summary.html | 200 | 7188 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 181 | http://localhost:8123/org/cooperari/junit/package-summary.html | 7188 bytes received
+11 Jun 2020 17:10:51 GMT | 182 | http://localhost:8123/org/cooperari/junit/package-use.html | 200 | 5750 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 182 | http://localhost:8123/org/cooperari/junit/package-use.html | 5750 bytes received
+11 Jun 2020 17:10:51 GMT | 183 | http://localhost:8123/org/cooperari/junit/package-tree.html | 200 | 7063 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 183 | http://localhost:8123/org/cooperari/junit/package-tree.html | 7063 bytes received
+11 Jun 2020 17:10:51 GMT | 184 | http://localhost:8123/org/cooperari/feature/unsafe/package-tree.html | 200 | 5225 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 184 | http://localhost:8123/org/cooperari/feature/unsafe/package-tree.html | 5225 bytes received
+11 Jun 2020 17:10:51 GMT | 185 | http://localhost:8123/org/cooperari/feature/unsafe/package-summary.html | 200 | 5812 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 185 | http://localhost:8123/org/cooperari/feature/unsafe/package-summary.html | 5812 bytes received
+11 Jun 2020 17:10:51 GMT | 186 | http://localhost:8123/org/cooperari/feature/unsafe/package-use.html | 200 | 4262 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 186 | http://localhost:8123/org/cooperari/feature/unsafe/package-use.html | 4262 bytes received
+11 Jun 2020 17:10:51 GMT | 187 | http://localhost:8123/org/cooperari/feature/threadrunner/package-summary.html | 200 | 6724 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 187 | http://localhost:8123/org/cooperari/feature/threadrunner/package-summary.html | 6724 bytes received
+11 Jun 2020 17:10:51 GMT | 188 | http://localhost:8123/org/cooperari/feature/threadrunner/package-use.html | 200 | 4304 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 188 | http://localhost:8123/org/cooperari/feature/threadrunner/package-use.html | 4304 bytes received
+11 Jun 2020 17:10:51 GMT | 189 | http://localhost:8123/org/cooperari/feature/threadrunner/package-tree.html | 200 | 5970 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 189 | http://localhost:8123/org/cooperari/feature/threadrunner/package-tree.html | 5970 bytes received
+11 Jun 2020 17:10:51 GMT | 190 | http://localhost:8123/org/cooperari/feature/thread/package-tree.html | 200 | 8213 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 190 | http://localhost:8123/org/cooperari/feature/thread/package-tree.html | 8213 bytes received
+11 Jun 2020 17:10:51 GMT | 191 | http://localhost:8123/org/cooperari/feature/thread/package-summary.html | 200 | 11541 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 191 | http://localhost:8123/org/cooperari/feature/thread/package-summary.html | 11541 bytes received
+11 Jun 2020 17:10:51 GMT | 192 | http://localhost:8123/org/cooperari/feature/thread/package-use.html | 200 | 6351 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 192 | http://localhost:8123/org/cooperari/feature/thread/package-use.html | 6351 bytes received
+11 Jun 2020 17:10:51 GMT | 193 | http://localhost:8123/org/cooperari/feature/thread/class-use/ThreadOperation.html | 200 | 11555 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 193 | http://localhost:8123/org/cooperari/feature/thread/class-use/ThreadOperation.html | 11555 bytes received
+11 Jun 2020 17:10:51 GMT | 194 | http://localhost:8123/org/cooperari/feature/thread/ThreadOperation.html | 200 | 14353 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 194 | http://localhost:8123/org/cooperari/feature/thread/ThreadOperation.html | 14353 bytes received
+11 Jun 2020 17:10:51 GMT | 195 | http://localhost:8123/org/cooperari/feature/thread/Stop.html | 200 | 14388 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 195 | http://localhost:8123/org/cooperari/feature/thread/Stop.html | 14388 bytes received
+11 Jun 2020 17:10:51 GMT | 196 | http://localhost:8123/org/cooperari/feature/thread/class-use/Stop.html | 200 | 4554 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 196 | http://localhost:8123/org/cooperari/feature/thread/class-use/Stop.html | 4554 bytes received
+11 Jun 2020 17:10:51 GMT | 197 | http://localhost:8123/org/cooperari/feature/thread/Start.html | 200 | 15107 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 197 | http://localhost:8123/org/cooperari/feature/thread/Start.html | 15107 bytes received
+11 Jun 2020 17:10:51 GMT | 198 | http://localhost:8123/org/cooperari/feature/thread/class-use/Start.html | 200 | 4565 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 198 | http://localhost:8123/org/cooperari/feature/thread/class-use/Start.html | 4565 bytes received
+11 Jun 2020 17:10:51 GMT | 199 | http://localhost:8123/org/cooperari/feature/thread/SpuriousWakeup.html | 200 | 14324 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 199 | http://localhost:8123/org/cooperari/feature/thread/SpuriousWakeup.html | 14324 bytes received
+11 Jun 2020 17:10:51 GMT | 200 | http://localhost:8123/org/cooperari/feature/thread/class-use/SpuriousWakeup.html | 200 | 4664 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 200 | http://localhost:8123/org/cooperari/feature/thread/class-use/SpuriousWakeup.html | 4664 bytes received
+11 Jun 2020 17:10:51 GMT | 201 | http://localhost:8123/org/cooperari/feature/thread/Sleep.html | 200 | 19171 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 201 | http://localhost:8123/org/cooperari/feature/thread/Sleep.html | 19171 bytes received
+11 Jun 2020 17:10:51 GMT | 202 | http://localhost:8123/org/cooperari/feature/thread/class-use/Sleep.html | 200 | 4565 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 202 | http://localhost:8123/org/cooperari/feature/thread/class-use/Sleep.html | 4565 bytes received
+11 Jun 2020 17:10:51 GMT | 203 | http://localhost:8123/org/cooperari/feature/thread/Join.html | 200 | 21563 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 203 | http://localhost:8123/org/cooperari/feature/thread/Join.html | 21563 bytes received
+11 Jun 2020 17:10:51 GMT | 204 | http://localhost:8123/org/cooperari/feature/thread/class-use/Join.html | 200 | 4554 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 204 | http://localhost:8123/org/cooperari/feature/thread/class-use/Join.html | 4554 bytes received
+11 Jun 2020 17:10:51 GMT | 205 | http://localhost:8123/org/cooperari/feature/thread/IsInterrupted.html | 200 | 17544 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 205 | http://localhost:8123/org/cooperari/feature/thread/IsInterrupted.html | 17544 bytes received
+11 Jun 2020 17:10:51 GMT | 206 | http://localhost:8123/org/cooperari/feature/thread/class-use/IsInterrupted.html | 200 | 4653 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 206 | http://localhost:8123/org/cooperari/feature/thread/class-use/IsInterrupted.html | 4653 bytes received
+11 Jun 2020 17:10:51 GMT | 207 | http://localhost:8123/org/cooperari/feature/thread/Interrupted.html | 200 | 17228 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 207 | http://localhost:8123/org/cooperari/feature/thread/Interrupted.html | 17228 bytes received
+11 Jun 2020 17:10:51 GMT | 208 | http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupted.html | 200 | 4631 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 208 | http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupted.html | 4631 bytes received
+11 Jun 2020 17:10:51 GMT | 209 | http://localhost:8123/org/cooperari/feature/thread/Interrupt.html | 200 | 14603 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 209 | http://localhost:8123/org/cooperari/feature/thread/Interrupt.html | 14603 bytes received
+11 Jun 2020 17:10:51 GMT | 210 | http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupt.html | 200 | 4609 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 210 | http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupt.html | 4609 bytes received
+11 Jun 2020 17:10:51 GMT | 211 | http://localhost:8123/org/cooperari/feature/thread/GetState.html | 200 | 13140 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 211 | http://localhost:8123/org/cooperari/feature/thread/GetState.html | 13140 bytes received
+11 Jun 2020 17:10:51 GMT | 212 | http://localhost:8123/org/cooperari/feature/thread/class-use/GetState.html | 200 | 4598 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 212 | http://localhost:8123/org/cooperari/feature/thread/class-use/GetState.html | 4598 bytes received
+11 Jun 2020 17:10:51 GMT | 213 | http://localhost:8123/org/cooperari/feature/thread/CurrentThread.html | 200 | 12783 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 213 | http://localhost:8123/org/cooperari/feature/thread/CurrentThread.html | 12783 bytes received
+11 Jun 2020 17:10:51 GMT | 214 | http://localhost:8123/org/cooperari/feature/thread/class-use/CurrentThread.html | 200 | 4653 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 214 | http://localhost:8123/org/cooperari/feature/thread/class-use/CurrentThread.html | 4653 bytes received
+11 Jun 2020 17:10:51 GMT | 215 | http://localhost:8123/org/cooperari/feature/thread/CThreadFeature.html | 200 | 15845 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 215 | http://localhost:8123/org/cooperari/feature/thread/CThreadFeature.html | 15845 bytes received
+11 Jun 2020 17:10:51 GMT | 216 | http://localhost:8123/org/cooperari/feature/thread/class-use/CThreadFeature.html | 200 | 4664 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 216 | http://localhost:8123/org/cooperari/feature/thread/class-use/CThreadFeature.html | 4664 bytes received
+11 Jun 2020 17:10:51 GMT | 217 | http://localhost:8123/org/cooperari/core/CThreadMappings.html | 200 | 16190 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 217 | http://localhost:8123/org/cooperari/core/CThreadMappings.html | 16190 bytes received
+11 Jun 2020 17:10:51 GMT | 218 | http://localhost:8123/org/cooperari/core/class-use/CThreadMappings.html | 200 | 4517 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 218 | http://localhost:8123/org/cooperari/core/class-use/CThreadMappings.html | 4517 bytes received
+11 Jun 2020 17:10:51 GMT | 219 | http://localhost:8123/org/cooperari/errors/CInternalError.html | 200 | 16779 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 219 | http://localhost:8123/org/cooperari/errors/CInternalError.html | 16779 bytes received
+11 Jun 2020 17:10:51 GMT | 220 | http://localhost:8123/org/cooperari/errors/class-use/CInternalError.html | 200 | 7081 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 220 | http://localhost:8123/org/cooperari/errors/class-use/CInternalError.html | 7081 bytes received
+11 Jun 2020 17:10:51 GMT | 221 | http://localhost:8123/org/cooperari/errors/CHotspotError.html | 200 | 17802 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 221 | http://localhost:8123/org/cooperari/errors/CHotspotError.html | 17802 bytes received
+11 Jun 2020 17:10:51 GMT | 222 | http://localhost:8123/org/cooperari/errors/class-use/CHotspotError.html | 200 | 7152 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 222 | http://localhost:8123/org/cooperari/errors/class-use/CHotspotError.html | 7152 bytes received
+11 Jun 2020 17:10:51 GMT | 223 | http://localhost:8123/org/cooperari/errors/CError.html | 200 | 18101 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 223 | http://localhost:8123/org/cooperari/errors/CError.html | 18101 bytes received
+11 Jun 2020 17:10:51 GMT | 224 | http://localhost:8123/org/cooperari/errors/class-use/CError.html | 200 | 10161 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 224 | http://localhost:8123/org/cooperari/errors/class-use/CError.html | 10161 bytes received
+11 Jun 2020 17:10:51 GMT | 225 | http://localhost:8123/org/cooperari/errors/CCheckedExceptionError.html | 200 | 14904 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 225 | http://localhost:8123/org/cooperari/errors/CCheckedExceptionError.html | 14904 bytes received
+11 Jun 2020 17:10:51 GMT | 226 | http://localhost:8123/org/cooperari/errors/class-use/CCheckedExceptionError.html | 200 | 4616 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 226 | http://localhost:8123/org/cooperari/errors/class-use/CCheckedExceptionError.html | 4616 bytes received
+11 Jun 2020 17:10:51 GMT | 227 | http://localhost:8123/org/cooperari/errors/CConfigurationError.html | 200 | 15375 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 227 | http://localhost:8123/org/cooperari/errors/CConfigurationError.html | 15375 bytes received
+11 Jun 2020 17:10:51 GMT | 228 | http://localhost:8123/org/cooperari/errors/class-use/CConfigurationError.html | 200 | 9362 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 228 | http://localhost:8123/org/cooperari/errors/class-use/CConfigurationError.html | 9362 bytes received
+11 Jun 2020 17:10:51 GMT | 229 | http://localhost:8123/org/cooperari/errors/CDeadlockError.html | 200 | 14232 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 229 | http://localhost:8123/org/cooperari/errors/CDeadlockError.html | 14232 bytes received
+11 Jun 2020 17:10:51 GMT | 230 | http://localhost:8123/org/cooperari/errors/class-use/CDeadlockError.html | 200 | 8216 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 230 | http://localhost:8123/org/cooperari/errors/class-use/CDeadlockError.html | 8216 bytes received
+11 Jun 2020 17:10:51 GMT | 231 | http://localhost:8123/org/cooperari/errors/CWaitDeadlockError.html | 200 | 14096 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 231 | http://localhost:8123/org/cooperari/errors/CWaitDeadlockError.html | 14096 bytes received
+11 Jun 2020 17:10:51 GMT | 232 | http://localhost:8123/org/cooperari/errors/class-use/CWaitDeadlockError.html | 200 | 4572 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 232 | http://localhost:8123/org/cooperari/errors/class-use/CWaitDeadlockError.html | 4572 bytes received
+11 Jun 2020 17:10:51 GMT | 233 | http://localhost:8123/org/cooperari/errors/CRaceError.html | 200 | 14040 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 233 | http://localhost:8123/org/cooperari/errors/CRaceError.html | 14040 bytes received
+11 Jun 2020 17:10:51 GMT | 234 | http://localhost:8123/org/cooperari/errors/class-use/CRaceError.html | 200 | 4484 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 234 | http://localhost:8123/org/cooperari/errors/class-use/CRaceError.html | 4484 bytes received
+11 Jun 2020 17:10:51 GMT | 235 | http://localhost:8123/org/cooperari/errors/CNonCooperativeModeError.html | 200 | 13650 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 235 | http://localhost:8123/org/cooperari/errors/CNonCooperativeModeError.html | 13650 bytes received
+11 Jun 2020 17:10:51 GMT | 236 | http://localhost:8123/org/cooperari/errors/class-use/CNonCooperativeModeError.html | 200 | 4638 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 236 | http://localhost:8123/org/cooperari/errors/class-use/CNonCooperativeModeError.html | 4638 bytes received
+11 Jun 2020 17:10:51 GMT | 237 | http://localhost:8123/org/cooperari/errors/CMultipleExceptionsError.html | 200 | 16906 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 237 | http://localhost:8123/org/cooperari/errors/CMultipleExceptionsError.html | 16906 bytes received
+11 Jun 2020 17:10:51 GMT | 238 | http://localhost:8123/org/cooperari/errors/class-use/CMultipleExceptionsError.html | 200 | 4638 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 238 | http://localhost:8123/org/cooperari/errors/class-use/CMultipleExceptionsError.html | 4638 bytes received
+11 Jun 2020 17:10:51 GMT | 239 | http://localhost:8123/serialized-form.html | 200 | 8823 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 239 | http://localhost:8123/serialized-form.html | 8823 bytes received
+11 Jun 2020 17:10:51 GMT | 240 | http://localhost:8123/org/cooperari/feature/monitor/CResourceDeadlockError.html | 200 | 14948 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 240 | http://localhost:8123/org/cooperari/feature/monitor/CResourceDeadlockError.html | 14948 bytes received
+11 Jun 2020 17:10:51 GMT | 241 | http://localhost:8123/org/cooperari/feature/monitor/class-use/CResourceDeadlockError.html | 200 | 4763 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 241 | http://localhost:8123/org/cooperari/feature/monitor/class-use/CResourceDeadlockError.html | 4763 bytes received
+11 Jun 2020 17:10:51 GMT | 242 | http://localhost:8123/org/cooperari/feature/monitor/CMonitorFeature.html | 200 | 17186 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 242 | http://localhost:8123/org/cooperari/feature/monitor/CMonitorFeature.html | 17186 bytes received
+11 Jun 2020 17:10:51 GMT | 243 | http://localhost:8123/org/cooperari/feature/monitor/class-use/CMonitorFeature.html | 200 | 4686 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 243 | http://localhost:8123/org/cooperari/feature/monitor/class-use/CMonitorFeature.html | 4686 bytes received
+11 Jun 2020 17:10:51 GMT | 244 | http://localhost:8123/org/cooperari/feature/monitor/DeadlockDetector.html | 200 | 14229 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 244 | http://localhost:8123/org/cooperari/feature/monitor/DeadlockDetector.html | 14229 bytes received
+11 Jun 2020 17:10:51 GMT | 245 | http://localhost:8123/org/cooperari/feature/monitor/class-use/DeadlockDetector.html | 200 | 4697 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 245 | http://localhost:8123/org/cooperari/feature/monitor/class-use/DeadlockDetector.html | 4697 bytes received
+11 Jun 2020 17:10:51 GMT | 246 | http://localhost:8123/org/cooperari/feature/monitor/Enter.html | 200 | 18034 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 246 | http://localhost:8123/org/cooperari/feature/monitor/Enter.html | 18034 bytes received
+11 Jun 2020 17:10:51 GMT | 247 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Enter.html | 200 | 4576 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 247 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Enter.html | 4576 bytes received
+11 Jun 2020 17:10:51 GMT | 248 | http://localhost:8123/org/cooperari/feature/monitor/Exit.html | 200 | 14730 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 248 | http://localhost:8123/org/cooperari/feature/monitor/Exit.html | 14730 bytes received
+11 Jun 2020 17:10:51 GMT | 249 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Exit.html | 200 | 4565 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 249 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Exit.html | 4565 bytes received
+11 Jun 2020 17:10:51 GMT | 250 | http://localhost:8123/org/cooperari/feature/monitor/Monitor.html | 200 | 27815 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 250 | http://localhost:8123/org/cooperari/feature/monitor/Monitor.html | 27815 bytes received
+11 Jun 2020 17:10:51 GMT | 251 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Monitor.html | 200 | 16278 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 251 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Monitor.html | 16278 bytes received
+11 Jun 2020 17:10:51 GMT | 252 | http://localhost:8123/org/cooperari/feature/monitor/MonitorPool.html | 200 | 15606 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 252 | http://localhost:8123/org/cooperari/feature/monitor/MonitorPool.html | 15606 bytes received
+11 Jun 2020 17:10:51 GMT | 253 | http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorPool.html | 200 | 4642 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 253 | http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorPool.html | 4642 bytes received
+11 Jun 2020 17:10:51 GMT | 254 | http://localhost:8123/org/cooperari/feature/monitor/MonitorOperation.html | 200 | 15204 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 254 | http://localhost:8123/org/cooperari/feature/monitor/MonitorOperation.html | 0 bytes received
+11 Jun 2020 17:10:51 GMT | 255 | http://localhost:8123/org/cooperari/feature/monitor/Notify.html | 200 | 17691 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 255 | http://localhost:8123/org/cooperari/feature/monitor/Notify.html | 17691 bytes received
+11 Jun 2020 17:10:51 GMT | 256 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Notify.html | 200 | 4587 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 256 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Notify.html | 4587 bytes received
+11 Jun 2020 17:10:51 GMT | 257 | http://localhost:8123/org/cooperari/feature/monitor/NotifyAll.html | 200 | 17766 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 257 | http://localhost:8123/org/cooperari/feature/monitor/NotifyAll.html | 0 bytes received
+11 Jun 2020 17:10:51 GMT | 258 | http://localhost:8123/org/cooperari/feature/monitor/ThreadHoldsLock.html | 200 | 18285 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 258 | http://localhost:8123/org/cooperari/feature/monitor/ThreadHoldsLock.html | 18285 bytes received
+11 Jun 2020 17:10:51 GMT | 259 | http://localhost:8123/org/cooperari/feature/monitor/class-use/ThreadHoldsLock.html | 200 | 4686 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 259 | http://localhost:8123/org/cooperari/feature/monitor/class-use/ThreadHoldsLock.html | 4686 bytes received
+11 Jun 2020 17:10:51 GMT | 260 | http://localhost:8123/org/cooperari/feature/monitor/Wait.html | 200 | 12795 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 260 | http://localhost:8123/org/cooperari/feature/monitor/Wait.html | 12795 bytes received
+11 Jun 2020 17:10:51 GMT | 261 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Wait.html | 200 | 4565 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 261 | http://localhost:8123/org/cooperari/feature/monitor/class-use/Wait.html | 4565 bytes received
+11 Jun 2020 17:10:51 GMT | 262 | http://localhost:8123/org/cooperari/feature/monitor/YieldPoints.html | 200 | 26171 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 262 | http://localhost:8123/org/cooperari/feature/monitor/YieldPoints.html | 26171 bytes received
+11 Jun 2020 17:10:51 GMT | 263 | http://localhost:8123/org/cooperari/feature/monitor/class-use/YieldPoints.html | 200 | 4642 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 263 | http://localhost:8123/org/cooperari/feature/monitor/class-use/YieldPoints.html | 4642 bytes received
+11 Jun 2020 17:10:51 GMT | 264 | http://localhost:8123/org/cooperari/feature/thread/Yield.html | 200 | 14064 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 264 | http://localhost:8123/org/cooperari/feature/thread/Yield.html | 14064 bytes received
+11 Jun 2020 17:10:51 GMT | 265 | http://localhost:8123/org/cooperari/feature/thread/class-use/Yield.html | 200 | 6845 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 265 | http://localhost:8123/org/cooperari/feature/thread/class-use/Yield.html | 6845 bytes received
+11 Jun 2020 17:10:51 GMT | 266 | http://localhost:8123/org/cooperari/feature/thread/YieldPoints.html | 200 | 47265 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 266 | http://localhost:8123/org/cooperari/feature/thread/YieldPoints.html | 47265 bytes received
+11 Jun 2020 17:10:51 GMT | 267 | http://localhost:8123/org/cooperari/feature/thread/class-use/YieldPoints.html | 200 | 4631 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 267 | http://localhost:8123/org/cooperari/feature/thread/class-use/YieldPoints.html | 4631 bytes received
+11 Jun 2020 17:10:51 GMT | 268 | http://localhost:8123/org/cooperari/feature/threadrunner/ThreadRunnerOperation.html | 200 | 17991 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 268 | http://localhost:8123/org/cooperari/feature/threadrunner/ThreadRunnerOperation.html | 17991 bytes received
+11 Jun 2020 17:10:51 GMT | 269 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use/ThreadRunnerOperation.html | 200 | 4807 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 269 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use/ThreadRunnerOperation.html | 4807 bytes received
+11 Jun 2020 17:10:51 GMT | 270 | http://localhost:8123/org/cooperari/feature/threadrunner/CThreadRunnerFeature.html | 200 | 14233 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 270 | http://localhost:8123/org/cooperari/feature/threadrunner/CThreadRunnerFeature.html | 14233 bytes received
+11 Jun 2020 17:10:51 GMT | 271 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use/CThreadRunnerFeature.html | 200 | 4796 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 271 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use/CThreadRunnerFeature.html | 4796 bytes received
+11 Jun 2020 17:10:51 GMT | 272 | http://localhost:8123/org/cooperari/feature/threadrunner/YieldPoints.html | 200 | 13365 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 272 | http://localhost:8123/org/cooperari/feature/threadrunner/YieldPoints.html | 13365 bytes received
+11 Jun 2020 17:10:51 GMT | 273 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use/YieldPoints.html | 200 | 4697 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 273 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use/YieldPoints.html | 4697 bytes received
+11 Jun 2020 17:10:51 GMT | 274 | http://localhost:8123/org/cooperari/feature/unsafe/CSunMiscUnsafeFeature.html | 200 | 13983 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 274 | http://localhost:8123/org/cooperari/feature/unsafe/CSunMiscUnsafeFeature.html | 13983 bytes received
+11 Jun 2020 17:10:51 GMT | 275 | http://localhost:8123/org/cooperari/feature/unsafe/class-use/CSunMiscUnsafeFeature.html | 200 | 4741 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 275 | http://localhost:8123/org/cooperari/feature/unsafe/class-use/CSunMiscUnsafeFeature.html | 4741 bytes received
+11 Jun 2020 17:10:51 GMT | 276 | http://localhost:8123/org/cooperari/junit/CCooperativeOnly.html | 200 | 7361 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 276 | http://localhost:8123/org/cooperari/junit/CCooperativeOnly.html | 7361 bytes received
+11 Jun 2020 17:10:51 GMT | 277 | http://localhost:8123/org/cooperari/junit/class-use/CCooperativeOnly.html | 200 | 4549 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 277 | http://localhost:8123/org/cooperari/junit/class-use/CCooperativeOnly.html | 4549 bytes received
+11 Jun 2020 17:10:51 GMT | 278 | http://localhost:8123/org/cooperari/junit/CPreemptiveOnly.html | 200 | 7693 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 278 | http://localhost:8123/org/cooperari/junit/CPreemptiveOnly.html | 7693 bytes received
+11 Jun 2020 17:10:51 GMT | 279 | http://localhost:8123/org/cooperari/junit/class-use/CPreemptiveOnly.html | 200 | 4538 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 279 | http://localhost:8123/org/cooperari/junit/class-use/CPreemptiveOnly.html | 4538 bytes received
+11 Jun 2020 17:10:51 GMT | 280 | http://localhost:8123/org/cooperari/junit/CTestResultPool.html | 200 | 19681 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 280 | http://localhost:8123/org/cooperari/junit/CTestResultPool.html | 19681 bytes received
+11 Jun 2020 17:10:51 GMT | 281 | http://localhost:8123/org/cooperari/junit/class-use/CTestResultPool.html | 200 | 7311 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 281 | http://localhost:8123/org/cooperari/junit/class-use/CTestResultPool.html | 7311 bytes received
+11 Jun 2020 17:10:51 GMT | 282 | http://localhost:8123/org/cooperari/junit/class-use/CJUnitRunner.html | 200 | 4495 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 282 | http://localhost:8123/org/cooperari/junit/class-use/CJUnitRunner.html | 4495 bytes received
+11 Jun 2020 17:10:51 GMT | 283 | http://localhost:8123/org/cooperari/core/util/class-use/AgentLoader.html | 200 | 4576 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 283 | http://localhost:8123/org/cooperari/core/util/class-use/AgentLoader.html | 4576 bytes received
+11 Jun 2020 17:10:51 GMT | 284 | http://localhost:8123/org/cooperari/config/CGenerateCoverageReports.html | 200 | 8881 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 284 | http://localhost:8123/org/cooperari/config/CGenerateCoverageReports.html | 8881 bytes received
+11 Jun 2020 17:10:51 GMT | 285 | http://localhost:8123/org/cooperari/config/class-use/CGenerateCoverageReports.html | 200 | 6690 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 285 | http://localhost:8123/org/cooperari/config/class-use/CGenerateCoverageReports.html | 6690 bytes received
+11 Jun 2020 17:10:51 GMT | 286 | http://localhost:8123/org/cooperari/feature/data/Write.html | 200 | 17132 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 286 | http://localhost:8123/org/cooperari/feature/data/Write.html | 17132 bytes received
+11 Jun 2020 17:10:51 GMT | 287 | http://localhost:8123/org/cooperari/feature/data/class-use/Write.html | 200 | 4543 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 287 | http://localhost:8123/org/cooperari/feature/data/class-use/Write.html | 4543 bytes received
+11 Jun 2020 17:10:51 GMT | 288 | http://localhost:8123/org/cooperari/feature/data/YieldPoints.html | 200 | 26473 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 288 | http://localhost:8123/org/cooperari/feature/data/YieldPoints.html | 26473 bytes received
+11 Jun 2020 17:10:51 GMT | 289 | http://localhost:8123/org/cooperari/feature/data/class-use/YieldPoints.html | 200 | 4609 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 289 | http://localhost:8123/org/cooperari/feature/data/class-use/YieldPoints.html | 4609 bytes received
+11 Jun 2020 17:10:51 GMT | 290 | http://localhost:8123/org/cooperari/feature/hotspots/CHotspotFeature.html | 200 | 15247 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 290 | http://localhost:8123/org/cooperari/feature/hotspots/CHotspotFeature.html | 15247 bytes received
+11 Jun 2020 17:10:51 GMT | 291 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/CHotspotFeature.html | 200 | 4697 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 291 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/CHotspotFeature.html | 4697 bytes received
+11 Jun 2020 17:10:51 GMT | 292 | http://localhost:8123/org/cooperari/feature/hotspots/HotspotHandler.html | 200 | 16479 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 292 | http://localhost:8123/org/cooperari/feature/hotspots/HotspotHandler.html | 16479 bytes received
+11 Jun 2020 17:10:51 GMT | 293 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotHandler.html | 200 | 4686 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 293 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotHandler.html | 4686 bytes received
+11 Jun 2020 17:10:51 GMT | 294 | http://localhost:8123/org/cooperari/feature/hotspots/HotspotOperation.html | 200 | 13407 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 294 | http://localhost:8123/org/cooperari/feature/hotspots/HotspotOperation.html | 13407 bytes received
+11 Jun 2020 17:10:51 GMT | 295 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotOperation.html | 200 | 4708 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 295 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotOperation.html | 4708 bytes received
+11 Jun 2020 17:10:51 GMT | 296 | http://localhost:8123/org/cooperari/feature/hotspots/YieldPoints.html | 200 | 14122 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 296 | http://localhost:8123/org/cooperari/feature/hotspots/YieldPoints.html | 14122 bytes received
+11 Jun 2020 17:10:51 GMT | 297 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/YieldPoints.html | 200 | 4653 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 297 | http://localhost:8123/org/cooperari/feature/hotspots/class-use/YieldPoints.html | 4653 bytes received
+11 Jun 2020 17:10:51 GMT | 298 | http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorOperation.html | 200 | 8571 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 298 | http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorOperation.html | 8571 bytes received
+11 Jun 2020 17:10:51 GMT | 299 | http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentFacade.html | 200 | 7526 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 299 | http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentFacade.html | 7526 bytes received
+11 Jun 2020 17:10:51 GMT | 300 | http://localhost:8123/org/cooperari/core/class-use/ACustomYieldPoint.html | 200 | 4539 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 300 | http://localhost:8123/org/cooperari/core/class-use/ACustomYieldPoint.html | 4539 bytes received
+11 Jun 2020 17:10:51 GMT | 301 | http://localhost:8123/org | 200 | 211 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 301 | http://localhost:8123/org | 211 bytes received
+11 Jun 2020 17:10:51 GMT | 302 | http://localhost:8123/org/cooperari | 200 | 1261 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 302 | http://localhost:8123/org/cooperari | 1261 bytes received
+11 Jun 2020 17:10:51 GMT | 303 | http://localhost:8123/org/cooperari/class-use | 200 | 780 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 303 | http://localhost:8123/org/cooperari/class-use | 780 bytes received
+11 Jun 2020 17:10:51 GMT | 304 | http://localhost:8123/org/cooperari/config | 200 | 1725 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 304 | http://localhost:8123/org/cooperari/config | 1725 bytes received
+11 Jun 2020 17:10:51 GMT | 305 | http://localhost:8123/org/cooperari/config/class-use | 200 | 1537 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 305 | http://localhost:8123/org/cooperari/config/class-use | 1537 bytes received
+11 Jun 2020 17:10:51 GMT | 306 | http://localhost:8123/org/cooperari/config/package-frame.html | 200 | 2298 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 306 | http://localhost:8123/org/cooperari/config/package-frame.html | 2298 bytes received
+11 Jun 2020 17:10:51 GMT | 307 | http://localhost:8123/org/cooperari/core | 200 | 2573 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 307 | http://localhost:8123/org/cooperari/core | 2573 bytes received
+11 Jun 2020 17:10:51 GMT | 308 | http://localhost:8123/org/cooperari/core/aspectj | 200 | 1281 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 308 | http://localhost:8123/org/cooperari/core/aspectj | 1281 bytes received
+11 Jun 2020 17:10:51 GMT | 309 | http://localhost:8123/org/cooperari/core/aspectj/class-use | 200 | 999 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 309 | http://localhost:8123/org/cooperari/core/aspectj/class-use | 999 bytes received
+11 Jun 2020 17:10:51 GMT | 310 | http://localhost:8123/org/cooperari/core/aspectj/package-frame.html | 200 | 1474 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 310 | http://localhost:8123/org/cooperari/core/aspectj/package-frame.html | 1474 bytes received
+11 Jun 2020 17:10:51 GMT | 311 | http://localhost:8123/org/cooperari/core/class-use | 200 | 2293 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 311 | http://localhost:8123/org/cooperari/core/class-use | 2293 bytes received
+11 Jun 2020 17:10:51 GMT | 312 | http://localhost:8123/org/cooperari/core/package-frame.html | 200 | 3231 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 312 | http://localhost:8123/org/cooperari/core/package-frame.html | 3231 bytes received
+11 Jun 2020 17:10:51 GMT | 313 | http://localhost:8123/org/cooperari/core/scheduling | 200 | 1985 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 313 | http://localhost:8123/org/cooperari/core/scheduling | 1985 bytes received
+11 Jun 2020 17:10:51 GMT | 314 | http://localhost:8123/org/cooperari/core/scheduling/class-use | 200 | 1761 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 314 | http://localhost:8123/org/cooperari/core/scheduling/class-use | 1761 bytes received
+11 Jun 2020 17:10:51 GMT | 315 | http://localhost:8123/org/cooperari/core/scheduling/package-frame.html | 200 | 2597 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 315 | http://localhost:8123/org/cooperari/core/scheduling/package-frame.html | 2597 bytes received
+11 Jun 2020 17:10:51 GMT | 316 | http://localhost:8123/org/cooperari/core/util | 200 | 1435 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 316 | http://localhost:8123/org/cooperari/core/util | 1435 bytes received
+11 Jun 2020 17:10:51 GMT | 317 | http://localhost:8123/org/cooperari/core/util/class-use | 200 | 1195 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 317 | http://localhost:8123/org/cooperari/core/util/class-use | 1195 bytes received
+11 Jun 2020 17:10:51 GMT | 318 | http://localhost:8123/org/cooperari/core/util/package-frame.html | 200 | 1733 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 318 | http://localhost:8123/org/cooperari/core/util/package-frame.html | 1733 bytes received
+11 Jun 2020 17:10:51 GMT | 319 | http://localhost:8123/org/cooperari/errors | 200 | 1621 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 319 | http://localhost:8123/org/cooperari/errors | 1621 bytes received
+11 Jun 2020 17:10:51 GMT | 320 | http://localhost:8123/org/cooperari/errors/class-use | 200 | 1413 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 320 | http://localhost:8123/org/cooperari/errors/class-use | 1413 bytes received
+11 Jun 2020 17:10:51 GMT | 321 | http://localhost:8123/org/cooperari/errors/package-frame.html | 200 | 1989 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 321 | http://localhost:8123/org/cooperari/errors/package-frame.html | 1989 bytes received
+11 Jun 2020 17:10:51 GMT | 322 | http://localhost:8123/org/cooperari/feature | 200 | 1320 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 322 | http://localhost:8123/org/cooperari/feature | 1320 bytes received
+11 Jun 2020 17:10:51 GMT | 323 | http://localhost:8123/org/cooperari/feature/atomic | 200 | 948 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 323 | http://localhost:8123/org/cooperari/feature/atomic | 948 bytes received
+11 Jun 2020 17:10:51 GMT | 324 | http://localhost:8123/org/cooperari/feature/atomic/class-use | 200 | 618 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 324 | http://localhost:8123/org/cooperari/feature/atomic/class-use | 618 bytes received
+11 Jun 2020 17:10:51 GMT | 325 | http://localhost:8123/org/cooperari/feature/atomic/package-frame.html | 200 | 955 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 325 | http://localhost:8123/org/cooperari/feature/atomic/package-frame.html | 955 bytes received
+11 Jun 2020 17:10:51 GMT | 326 | http://localhost:8123/org/cooperari/feature/class-use | 200 | 587 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 326 | http://localhost:8123/org/cooperari/feature/class-use | 587 bytes received
+11 Jun 2020 17:10:51 GMT | 327 | http://localhost:8123/org/cooperari/feature/data | 200 | 1334 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 327 | http://localhost:8123/org/cooperari/feature/data | 1334 bytes received
+11 Jun 2020 17:10:51 GMT | 328 | http://localhost:8123/org/cooperari/feature/data/class-use | 200 | 1062 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 328 | http://localhost:8123/org/cooperari/feature/data/class-use | 1062 bytes received
+11 Jun 2020 17:10:51 GMT | 329 | http://localhost:8123/org/cooperari/feature/data/package-frame.html | 200 | 1501 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 329 | http://localhost:8123/org/cooperari/feature/data/package-frame.html | 1501 bytes received
+11 Jun 2020 17:10:51 GMT | 330 | http://localhost:8123/org/cooperari/feature/hotspots | 200 | 1240 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 330 | http://localhost:8123/org/cooperari/feature/hotspots | 1240 bytes received
+11 Jun 2020 17:10:51 GMT | 331 | http://localhost:8123/org/cooperari/feature/hotspots/class-use | 200 | 932 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 331 | http://localhost:8123/org/cooperari/feature/hotspots/class-use | 932 bytes received
+11 Jun 2020 17:10:51 GMT | 332 | http://localhost:8123/org/cooperari/feature/hotspots/package-frame.html | 200 | 1327 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 332 | http://localhost:8123/org/cooperari/feature/hotspots/package-frame.html | 1327 bytes received
+11 Jun 2020 17:10:51 GMT | 333 | http://localhost:8123/org/cooperari/feature/monitor | 200 | 2001 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 333 | http://localhost:8123/org/cooperari/feature/monitor | 2001 bytes received
+11 Jun 2020 17:10:51 GMT | 334 | http://localhost:8123/org/cooperari/feature/monitor/class-use | 200 | 1787 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 334 | http://localhost:8123/org/cooperari/feature/monitor/class-use | 1787 bytes received
+11 Jun 2020 17:10:51 GMT | 335 | http://localhost:8123/org/cooperari/feature/monitor/class-use/NotifyAll.html | 200 | 4620 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 335 | http://localhost:8123/org/cooperari/feature/monitor/class-use/NotifyAll.html | 4620 bytes received
+11 Jun 2020 17:10:51 GMT | 336 | http://localhost:8123/org/cooperari/feature/monitor/package-frame.html | 200 | 2420 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 336 | http://localhost:8123/org/cooperari/feature/monitor/package-frame.html | 2420 bytes received
+11 Jun 2020 17:10:51 GMT | 337 | http://localhost:8123/org/cooperari/feature/package-frame.html | 200 | 1113 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 337 | http://localhost:8123/org/cooperari/feature/package-frame.html | 1113 bytes received
+11 Jun 2020 17:10:51 GMT | 338 | http://localhost:8123/org/cooperari/feature/thread | 200 | 2026 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 338 | http://localhost:8123/org/cooperari/feature/thread | 2026 bytes received
+11 Jun 2020 17:10:51 GMT | 339 | http://localhost:8123/org/cooperari/feature/thread/class-use | 200 | 1826 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 339 | http://localhost:8123/org/cooperari/feature/thread/class-use | 1826 bytes received
+11 Jun 2020 17:10:51 GMT | 340 | http://localhost:8123/org/cooperari/feature/thread/package-frame.html | 200 | 2423 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 340 | http://localhost:8123/org/cooperari/feature/thread/package-frame.html | 2423 bytes received
+11 Jun 2020 17:10:51 GMT | 341 | http://localhost:8123/org/cooperari/feature/threadrunner | 200 | 1208 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 341 | http://localhost:8123/org/cooperari/feature/threadrunner | 1208 bytes received
+11 Jun 2020 17:10:51 GMT | 342 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use | 200 | 874 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 342 | http://localhost:8123/org/cooperari/feature/threadrunner/class-use | 874 bytes received
+11 Jun 2020 17:10:51 GMT | 343 | http://localhost:8123/org/cooperari/feature/threadrunner/package-frame.html | 200 | 1245 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 343 | http://localhost:8123/org/cooperari/feature/threadrunner/package-frame.html | 1245 bytes received
+11 Jun 2020 17:10:51 GMT | 344 | http://localhost:8123/org/cooperari/feature/unsafe | 200 | 948 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 344 | http://localhost:8123/org/cooperari/feature/unsafe | 948 bytes received
+11 Jun 2020 17:10:51 GMT | 345 | http://localhost:8123/org/cooperari/feature/unsafe/class-use | 200 | 618 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 345 | http://localhost:8123/org/cooperari/feature/unsafe/class-use | 618 bytes received
+11 Jun 2020 17:10:51 GMT | 346 | http://localhost:8123/org/cooperari/feature/unsafe/package-frame.html | 200 | 955 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 346 | http://localhost:8123/org/cooperari/feature/unsafe/package-frame.html | 955 bytes received
+11 Jun 2020 17:10:51 GMT | 347 | http://localhost:8123/org/cooperari/junit | 200 | 1049 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 347 | http://localhost:8123/org/cooperari/junit | 1049 bytes received
+11 Jun 2020 17:10:51 GMT | 348 | http://localhost:8123/org/cooperari/junit/class-use | 200 | 785 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 348 | http://localhost:8123/org/cooperari/junit/class-use | 785 bytes received
+11 Jun 2020 17:10:51 GMT | 349 | http://localhost:8123/org/cooperari/junit/package-frame.html | 200 | 1395 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 349 | http://localhost:8123/org/cooperari/junit/package-frame.html | 1395 bytes received
+11 Jun 2020 17:10:51 GMT | 350 | http://localhost:8123/org/cooperari/package-frame.html | 200 | 1518 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 350 | http://localhost:8123/org/cooperari/package-frame.html | 1518 bytes received
+11 Jun 2020 17:10:51 GMT | 351 | http://localhost:8123/overview-frame.html | 200 | 2608 bytes | text/html
+11 Jun 2020 17:10:51 GMT | 351 | http://localhost:8123/overview-frame.html | 2608 bytes received
+11 Jun 2020 17:10:51 GMT | 352 | http://localhost:8123/package-list | 200 | 408 bytes | application/octet-stream
+11 Jun 2020 17:10:51 GMT | 352 | http://localhost:8123/package-list | 408 bytes received
+11 Jun 2020 17:10:51 GMT | 353 | http://localhost:8123/script.js | 200 | 827 bytes | application/octet-stream
+11 Jun 2020 17:10:51 GMT | 353 | http://localhost:8123/script.js | 827 bytes received
+11 Jun 2020 17:10:51 GMT | 354 | http://localhost:8123/stylesheet.css | 200 | 12842 bytes | application/octet-stream
+11 Jun 2020 17:10:51 GMT | 354 | http://localhost:8123/stylesheet.css | 12842 bytes received
+11 Jun 2020 17:10:51 GMT | Done in 2147 ms

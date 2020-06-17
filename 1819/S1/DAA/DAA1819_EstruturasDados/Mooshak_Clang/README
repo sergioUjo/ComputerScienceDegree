@@ -1,0 +1,31 @@
+//------------------ Grafos dirigidos (com 0, 1, 2 pesos)
+
+grafo0.h
+   Grafo dirigido SEM pesos nas arestas
+
+grafos.h
+   Grafo dirigido com UM peso (int) em cada aresta	
+
+grafos2.h
+   Grafo dirigido com DOIS pesos (int) em cada aresta 
+
+
+//------------------ Filas de prioridade e FIFO
+heapMax.h
+
+heapMin.h 
+
+queue.h 
+  fila FIFO para valores int
+
+//-------------- Listas -----------------------
+
+lists.h 
+  lista ligada simples para valores int
+
+//---------------  Pilhas -----------------------
+stack_v1.h
+  pilha para int
+
+stack_v0.h
+  pilha para int (outra implementação)

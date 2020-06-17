@@ -1,0 +1,16 @@
+%==========
+% 
+%  File: ex2_v  (igual a ex2_1 mas numero de trabalhadores varia)
+%
+%  tarefa(ID,LPrecs,Dur,NTrabs)
+
+
+tarefa(1,[7,6],12,1).
+tarefa(2,[9],6,4).
+tarefa(3,[4,5],3,1).
+tarefa(4,[8],9,3).
+tarefa(5,[7,6],1,1).
+tarefa(6,[8],5,1).
+tarefa(7,[],9,1).
+tarefa(8,[],2,3).
+tarefa(9,[7,6],6,2).

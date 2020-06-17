@@ -1,0 +1,5 @@
+  PV         VG     Fmt  Attr PSize    PFree
+  /dev/sdd   backup lvm2 a--  1020.00m    0 
+  /dev/sde   backup lvm2 a--  1020.00m    0 
+  /dev/sdf   backup lvm2 a--  1020.00m    0 
+  /dev/sdg   backup lvm2 a--  1020.00m    0 

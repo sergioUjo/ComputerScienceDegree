@@ -1,0 +1,12 @@
+
+8
+java:S1643œ"Use a StringBuilder instead.(ĞÄ¥ûÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+N	java:S106­"9Replace this use of System.out or System.err by a logger.(‚š‰1
+Q	java:S899†";Do something with the "boolean" value returned by "delete".(îŒä¼
+e
+java:S4042†"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(îŒä¼
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ
+8
+java:S1643š"Use a StringBuilder instead.(ßú˜çûÿÿÿÿ

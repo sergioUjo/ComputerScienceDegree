@@ -1,0 +1,14 @@
+%==========
+%
+%  File: ex3
+%
+%  tarefa(ID,LPrecs,Dur,NTrabs)
+
+tarefa(1,[3,2],1,1).
+tarefa(2,[5],5,1).
+tarefa(3,[6,7],3,1).
+tarefa(4,[5],1,2).
+tarefa(5,[],10,2).
+tarefa(6,[5],7,1).
+tarefa(7,[],13,1).
+tarefa(8,[7,6],5,2).

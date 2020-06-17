@@ -1,0 +1,16 @@
+//------------------ Grafos dirigidos (com 0, 1, 2 pesos)
+
+Grafo0.java
+   Grafo dirigido sem pesos nas arestas
+
+Grafo.java 
+   Grafo dirigido com um peso (int) em cada aresta	
+
+Grafo2.java  
+   Grafo dirigido com dois pesos (int) em cada aresta 
+
+//----------- Filas de prioridade
+
+HeapMax.java   
+
+HeapMin.java  
