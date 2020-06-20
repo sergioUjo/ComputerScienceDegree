@@ -25,7 +25,7 @@ public class BQueueBenchmark {
             runBenchmark("Monitor-based", t, new MBQueueU<Integer>(MAX_THREADS));
             runBenchmark("Lock-free backoff=y", t, new LFBQueueU<Integer>(MAX_THREADS, true));
             runBenchmark("Lock-free backoff=n", t, new LFBQueueU<Integer>(MAX_THREADS, false));
-            //runBenchmark("STM", t, new STMBQueueU<Integer>(MAX_THREADS));
+            runBenchmark("STM", t, new STMBQueueU<Integer>(MAX_THREADS));
         }
     }
 

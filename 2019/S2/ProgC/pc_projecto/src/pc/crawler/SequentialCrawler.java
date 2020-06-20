@@ -24,7 +24,6 @@ import java.util.regex.Pattern;
 public class SequentialCrawler {
     /**
      * Program entry point.
-     *
      * @param args Arguments.
      * @throws IOException if an I/O error occurs.
      */
@@ -41,7 +40,6 @@ public class SequentialCrawler {
 
     /**
      * Constructor.
-     *
      * @throws FileNotFoundException if log file <code>crawler.log</code> cannot be opened.
      */
     public SequentialCrawler() throws FileNotFoundException {
@@ -50,7 +48,6 @@ public class SequentialCrawler {
 
     /**
      * Enable / disable verbose output.
-     *
      * @param enable Value for setting.
      */
     public void setVerboseOutput(boolean enable) {
@@ -59,7 +56,6 @@ public class SequentialCrawler {
 
     /**
      * Crawl starting from given URL.
-     *
      * @param root Root URL.
      * @throws IOException if an I/O error occurs.
      */
@@ -83,8 +79,8 @@ public class SequentialCrawler {
             visited.add(url.toString());
             List<String> links = performTransfer(rid, url);
             for (String link : links) {
-                String newURL = new URL(url, new URL(url, link).getPath()).toString();
-                if (!visited.contains(newURL)) {
+                String newURL = new URL(url, new URL(url,link).getPath()).toString();
+                if (! visited.contains(newURL)) {
                     // info("%d | Added %s", rid, newURL);
                     toVisit.addLast(newURL);
                 } else {
@@ -118,13 +114,13 @@ public class SequentialCrawler {
             }
 
             // Transfer to temporary file.
-            File tmp = File.createTempFile("crawler", "bin");
+            File tmp = File.createTempFile("crawler","bin");
             tmp.deleteOnExit();
             InputStream in = conn.getInputStream();
             byte[] buf = new byte[16384];
             int total = 0;
             try (FileOutputStream out = new FileOutputStream(tmp)) {
-                while (in.available() > 0) {
+                while (total < conn.getContentLength()) { // CHANGED
                     int n = in.read(buf);
                     total += n;
                     out.write(buf, 0, n);
@@ -140,12 +136,12 @@ public class SequentialCrawler {
 
             // Parse links in HTML data
             ArrayList<String> links = new ArrayList<>();
-            try (Scanner sin = new Scanner(tmp)) {
+            try (Scanner sin = new Scanner(tmp)){
                 while (sin.hasNextLine()) {
                     while (sin.findInLine(HTML_LINK_REGEX) != null) {
                         MatchResult mr = sin.match();
                         String link = mr.group(1);
-                        if (!link.contains(":") && !link.startsWith("#")) {
+                        if (!link.contains(":") && ! link.startsWith("#")) {
                             links.add(link);
                         } else {
                             // info("%d | Ignoring %s ", rid, link);
@@ -155,7 +151,8 @@ public class SequentialCrawler {
                 }
             }
             return links;
-        } catch (Exception e) {
+        }
+        catch(Exception e) {
             log("%d | Error: %s - %s", rid, e.getClass().getName(), e.getMessage());
             // e.printStackTrace(System.out);
             return Collections.emptyList();

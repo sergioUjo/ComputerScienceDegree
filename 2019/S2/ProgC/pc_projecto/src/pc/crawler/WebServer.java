@@ -31,14 +31,14 @@ public class WebServer  {
    */
   public static void main(String[] args) throws IOException {
     String home = args.length >= 1 ?
-        args[0] : "cooperari-0.3/doc/javadoc";
-        int port = args.length >= 2 ? 
+            args[0] : "cooperari-0.3/doc/javadoc";
+    int port = args.length >= 2 ?
             Integer.parseInt(args[1]) : 8123;
-            int threads = args.length >= 3 ?
-                Integer.parseInt(args[2]) : 4;
+    int threads = args.length >= 3 ?
+            Integer.parseInt(args[2]) : 4;
 
-                WebServer ws = new WebServer(home, port, threads);
-                ws.start();
+    WebServer ws = new WebServer(home, port, threads);
+    ws.start();
   }
 
   private static final boolean WORK_STEALING_POOL = true;
@@ -46,7 +46,7 @@ public class WebServer  {
   private final File home;
   private final AtomicInteger reqId = new AtomicInteger();
 
-  /** 
+  /**
    * Constructor.
    * @param path Home for pages served.
    * @param port Port number to use.
@@ -107,7 +107,7 @@ public class WebServer  {
         }
         info("%d | Listing directory", rid);
         fileToSend = generateListing(path,file);
-      } 
+      }
       // Send file contents
       String mimeType = URLConnection.guessContentTypeFromName(fileToSend.getName());
       if (mimeType == null) {
@@ -126,14 +126,14 @@ public class WebServer  {
             out.write(buf, 0, n);
             sent += n;
           }
-        } 
-
+        }
+        out.flush(); // CHANGED
       }
       finally {
         if (fileToSend != file) {
           fileToSend.delete();
         }
-      } 
+      }
     }
     catch (IOException e) {
       e.printStackTrace(System.out);
@@ -159,17 +159,17 @@ public class WebServer  {
       out.println("</b>");
       for (String f : directory.list()) {
         out.printf("<li><a href=\"%s%s\">%s</a></li>%n",
-            path, f, f);
-      } 
+                path, f, f);
+      }
       out.printf("</ul>%n</p>%n</body>%n</html>%n");
     }
     return listFile;
   }
-  
+
   @SuppressWarnings("deprecation")
   private synchronized void info(String format, Object... args) {
-    String msg = String.format("%s | %s", 
-        new Date().toGMTString(), String.format(format, args));
+    String msg = String.format("%s | %s",
+            new Date().toGMTString(), String.format(format, args));
     System.out.println(msg);
   }
 
