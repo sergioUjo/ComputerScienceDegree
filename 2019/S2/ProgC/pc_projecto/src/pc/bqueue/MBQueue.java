@@ -37,37 +37,34 @@ public class MBQueue<E> implements BQueue<E> {
 
 
     @Override
-    public void add(E elem) {
-        synchronized (this) {
-            try {
-                while (size == array.length) {
-                    wait();
-                }
-                array[(head + size) % array.length] = elem;
-                size++;
-                notifyAll();
-            } catch (InterruptedException e) {
-                throw new UnexpectedException(e);
+    public synchronized void add(E elem) {
+        try {
+            while (size == array.length) {
+                wait();
             }
+            array[(head + size) % array.length] = elem;
+            size++;
+            notifyAll();
+        } catch (InterruptedException e) {
+            throw new UnexpectedException(e);
         }
+
     }
 
     @Override
-    public E remove() {
-        synchronized (this) {
-            try {
-                while (size == 0) {
-                    wait();
-                }
-                E elem = array[head];
-                array[head] = null;
-                head = (head + 1) % array.length;
-                size--;
-                notifyAll();
-                return elem;
-            } catch (InterruptedException e) {
-                throw new UnexpectedException(e);
+    public synchronized E remove() {
+        try {
+            while (size == 0) {
+                wait();
             }
+            E elem = array[head];
+            array[head] = null;
+            head = (head + 1) % array.length;
+            size--;
+            notifyAll();
+            return elem;
+        } catch (InterruptedException e) {
+            throw new UnexpectedException(e);
         }
     }
 
