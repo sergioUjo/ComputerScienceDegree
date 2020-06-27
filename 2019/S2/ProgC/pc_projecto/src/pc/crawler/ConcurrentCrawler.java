@@ -26,7 +26,7 @@ public class ConcurrentCrawler extends SequentialCrawler {
         String url = args.length > 1 ? args[1] : "http://localhost:8123";
 
         ConcurrentCrawler cc = new ConcurrentCrawler(threads);
-        cc.setVerboseOutput(true);
+        cc.setVerboseOutput(false);
         cc.crawl(url);
         cc.stop();
     }

@@ -12,6 +12,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.MethodSorters;
 
+import java.io.PrintStream;
+import java.util.Date;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import static org.junit.Assert.assertEquals;
@@ -427,5 +429,10 @@ public abstract class BQueueTest {
         if (!found) {
             fail("Did you consider c = " + c.get() + " and  d=" + d.get() + " ?");
         }
+    }
+    protected synchronized void fail(String format, Object... args) {
+        String msg = String.format("YDebug.Fail | %s",
+                new Date().toGMTString(), String.format(format, args));
+        System.out.println(msg);
     }
 }
